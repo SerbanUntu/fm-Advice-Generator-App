@@ -9,7 +9,7 @@
   }
 
   small {
-    @apply uppercase text-green tracking-[3px];
+    @apply uppercase text-green tracking-[4px];
   }
 
   q {

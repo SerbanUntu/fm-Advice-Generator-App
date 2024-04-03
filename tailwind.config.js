@@ -19,6 +19,9 @@ export default {
         'gray-blue': '#4e5d73',
         'dark-gray-blue': '#323a49',
         'dark-blue': '#1f2632',
+      },
+      boxShadow: {
+        'green-glow': '0 0 20px 10px #52ffa850'
       }
     },
   },
