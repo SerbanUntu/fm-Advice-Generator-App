@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply font-manrope overflow-hidden font-extrabold;
+  }
+
+  small {
+    @apply uppercase text-green tracking-[3px];
+  }
+
+  q {
+    @apply text-cyan text-[28px];
+  }
+}
