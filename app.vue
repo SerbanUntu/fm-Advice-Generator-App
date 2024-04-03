@@ -20,7 +20,7 @@ onMounted(() => getQuote())
 
 <template>
   <main class="w-screen h-screen bg-dark-blue flex items-center justify-center">
-    <article class="relative flex flex-col gap-6 px-6 md:px-12 p-12 pb-16 rounded-2xl bg-dark-gray-blue items-center shadow-xl text-center">
+    <article class="relative flex flex-col gap-6 px-6 md:px-12 p-12 pb-16 rounded-2xl bg-dark-gray-blue items-center shadow-xl text-center bottom-[16px]">
       <small>{{ 'Advice #' + id }}</small>
       <q class="w-[295px] md:w-[444px]">{{ advice }}</q>
       <img class="hidden md:block" src="/images/pattern-divider-desktop.svg" alt="Pattern divider" />

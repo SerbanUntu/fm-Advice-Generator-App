@@ -30,7 +30,7 @@ Users are able to:
 
 ### Links
 
-- [Solution]()
+- [Solution](https://www.frontendmentor.io/solutions/responsive-advice-generator-app-with-nuxt-and-tailwind-6vdWpBWOSF)
 - [Live Site](https://fm-advice-generator-app-tau.vercel.app/)
 
 ## My process
